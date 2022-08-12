@@ -490,6 +490,7 @@ Adds 1 to 85 Lightning Damage
 Voltaxic Rift
 Spine Bow
 Variant: Pre 3.9.0
+Variant: Pre 3.19.0
 Variant: Current
 Requires Level 64, 212 Dex
 Adds 1 to (275-325) Lightning Damage
@@ -498,7 +499,9 @@ Adds 1 to (275-325) Lightning Damage
 10% Chance to Shock
 Your Chaos Damage can Shock
 {variant:2}Shock Enemies as though dealing 300% more Damage
+{variant:3}Hits with this Weapon Shock Enemies as though dealing 300% more Damage
 {variant:2}Your Shocks can increase Damage taken by up to a maximum of 100%
+{variant:3}+40% to maximum Effect of Shock
 ]],[[
 Windripper
 Imperial Bow
