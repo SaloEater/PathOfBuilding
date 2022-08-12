@@ -917,6 +917,8 @@ Can have 3 additional Enchantment Modifiers
 ]],[[
 Tavukai
 Coral Amulet
+Variant: Pre 3.19.0
+Variant: Current
 League: Legion
 Source: Drops from Karui Legion
 Requires Level 54
@@ -925,8 +927,10 @@ Implicits: 1
 {tags:jewellery_attribute}+(30-40) to Intelligence
 {tags:chaos,jewellery_resistance}Minions have (-17-17)% to Chaos Resistance
 Summon Raging Spirit has (20-30)% increased Duration
-Summoned Raging Spirits deal (60-80)% increased Damage
-{tags:life}Summoned Raging Spirits have (80-100)% increased maximum Life
+{variant:1}Summoned Raging Spirits deal (60-80)% increased Damage
+{variant:2}Summoned Raging Spirits deal (25-40)% increased Damage
+{variant:1}{tags:life}Summoned Raging Spirits have (80-100)% increased maximum Life
+{variant:2}{tags:life}Summoned Raging Spirits have (25-40)% increased maximum Life
 {tags:chaos}Summoned Raging Spirits take 20% of their Maximum Life per second as Chaos Damage
 ]],[[
 Tear of Purity
